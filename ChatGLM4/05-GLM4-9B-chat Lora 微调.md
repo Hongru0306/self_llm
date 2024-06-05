@@ -27,6 +27,7 @@ pip install sentencepiece==0.1.99
 pip install accelerate==0.29.3
 pip install datasets==2.19.0
 pip install peft==0.10.0
+pip install tiktoken==0.7.0
 
 MAX_JOBS=8 pip install flash-attn --no-build-isolation
 ```
